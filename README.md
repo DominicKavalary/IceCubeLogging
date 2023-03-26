@@ -1,7 +1,7 @@
 # IceCubeLogging
 A quick resource monitoring script for linux and windows devices I made for fun while trying to learn useful informational commands.
 
-All that needs to be done for the script to run is to type "python3 IceCubeXXX" with XXX being Win or Lin in the command prompt. It then takes a second to run through the code in the script and it will create an HTML file titled with the date and time for tracking purposes in the directory you have the script file in. you can open up said file in your web browser and scroll through the information it grabbed, or just look through the HTML you psycho.
+All that needs to be done for the script to run is to type "python3 IceCubeXXX" in the directory the file is (with XXX being Win or Lin) in the command prompt. It then takes a second to run through the code in the script and it will create an HTML file titled with the date and time for tracking purposes in the directory you have the script file in. you can open up said file in your web browser and scroll through the information it grabbed, or just look through the HTML you psycho.
 
 Its rather easy to read and understand where which bits of code come from so if you would rather it not grab certain data you can quite simply remove that section from the code.
 
