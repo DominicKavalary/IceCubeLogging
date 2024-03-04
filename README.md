@@ -13,3 +13,5 @@ This is roughly what it should look like, the image below coming from a screensh
 
 You dont really need the logo thing I threw together but if you want it just download it and put it in the same directory the HTML files are being viewed in.
 
+Fun fact: originally this was named after a professor of mine and had a spinning picture of his head, but he did not give me permission to use it so its now ice cube.
+
